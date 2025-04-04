@@ -19,7 +19,7 @@
                         </a>
                     </div>
                     <!-- /Logo -->
-                    <h4 class="mb-1">Adventure starts here 🚀</h4>
+                    <h4 class="mb-1">hahhhhahahahahaha😂</h4>
                     <p class="mb-6">Make your app management easy and fun!</p>
 
                     <form method="POST" action="{{ route('register') }}">
