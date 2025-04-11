@@ -15,7 +15,7 @@
                                     <!-- Add your SVG logo here -->
                                 </span>
                             </span>
-                            <span class="app-brand-text demo text-heading fw-bold">Sneat</span>
+                            <span class="app-brand-text demo text-heading fw-bold">BRIS</span>
                         </a>
                     </div>
                     <!-- /Logo -->
