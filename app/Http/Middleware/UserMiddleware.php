@@ -9,7 +9,7 @@ use App\Models\Role;
 use Auth;
 
 
-class AdminMiddleware
+class UserMiddleware
 {
     /**
      * Handle an incoming request.
