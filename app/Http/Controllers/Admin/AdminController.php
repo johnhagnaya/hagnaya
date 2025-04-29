@@ -8,9 +8,9 @@ use Illuminate\Http\Request;
 class AdminController extends Controller
 {
     //
-    public function index(): {
-        $user = auth()->user();
+    public function index() {
+        // $user = auth()->user();
 
-        return view('admin.dashboard.index' , compact('user'));
+        return view('admin.dashboard.index');
     }
 }
